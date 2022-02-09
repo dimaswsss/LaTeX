@@ -9,3 +9,4 @@ Dapat menambah keahlian. Selain itu, ada salah satu dosen yang menyebutkan menge
 # Referensi:
 - [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
 - [Kelas Pak Charis](https://youtube.com/playlist?list=PLBRdYBS0cmGywk93_G8qBAFLfNFNL7VHL)
+- [Buku LaTeX from WikiBooks](https://www.wikibooks.org/wiki/LaTeX)
